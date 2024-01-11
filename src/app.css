@@ -1,0 +1,57 @@
+@font-face {
+	font-family: 'Noto IKEA Latin';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url(./lib/assets/fonts/Noto-IKEA-Latin-Regular.woff2) format('woff2');
+}
+@font-face {
+	font-family: 'Noto IKEA Latin';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url(./lib/assets/fonts/Noto-IKEA-Latin-Bold.woff2) format('woff2');
+}
+@font-face {
+	font-family: 'Covered By Your Grace';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url(./lib/assets/fonts/coveredbyyourgrace.woff2) format('woff2');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	@media (max-width: 400px) {
+		html {
+			font-size: 4vw;
+		}
+	}
+	html {
+		@apply scroll-smooth antialiased;
+	}
+}
+
+@layer components {
+}
+
+@layer utilities {
+	.bg-header {
+		background-image: url(./lib/assets/images/bg-header.png);
+	}
+	.bg-footer {
+		background-image: url(./lib/assets/images/bg-footer.jpg);
+	}
+	.bg-divider {
+		background-image: url(./lib/assets/images/bg-divider.png);
+	}
+	.bg-hero {
+		background-image: url(./lib/assets/images/bg-hero.gif);
+	}
+	.bg-blue {
+		background-image: url(./lib/assets/images/bg-blue.jpg);
+	}
+}
