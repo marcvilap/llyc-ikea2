@@ -1,7 +1,6 @@
 <script lang="ts">
 	import Template from '$lib/components/Template.svelte'
 	import imageCard from '$lib/assets/images/front-card-01.png'
-	import imageBanner from '$lib/assets/images/banner-01.jpg'
 	import videoCard from '$lib/assets/videos/video-amor.mp4'
 </script>
 
@@ -12,7 +11,6 @@
 	question2="· ¿Dónde tengo que buscar el amor?"
 	question3="· ¿Encontraré el amor en mi ciudad o tendré que recorrer kilómetros para encontrarle?"
 	{imageCard}
-	{imageBanner}
 >
 	<svelte:fragment slot="answer1">
 		<p><strong>¡Qué te voy a decir!</strong> Yo me enamoro todos los días.</p>

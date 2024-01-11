@@ -8,7 +8,6 @@
 	export let question3: string
 	export let imageCard: string
 	export let videoCard: string
-	export let imageBanner: string
 
 	let answer = 0
 	let showVideo = false
@@ -148,7 +147,5 @@
 				<img class="-mr-64 w-[48rem]" src={cloud} alt="" />
 			</div>
 		</div>
-	{:else}
-		<img class="w-full" src={imageBanner} alt="" />
 	{/if}
 </main>

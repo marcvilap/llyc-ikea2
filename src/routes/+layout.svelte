@@ -55,7 +55,7 @@
 
 <slot />
 
-<footer class="bg-footer bg-cover bg-center text-white">
+<footer class="bg-footer bg-cover bg-center pb-12 pt-20 text-white">
 	<div class="container">
 		<div class="flex items-end justify-between border-b border-white py-8">
 			<div>

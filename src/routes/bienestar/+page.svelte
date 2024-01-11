@@ -1,7 +1,6 @@
 <script lang="ts">
 	import Template from '$lib/components/Template.svelte'
 	import imageCard from '$lib/assets/images/front-card-04.png'
-	import imageBanner from '$lib/assets/images/banner-01.jpg'
 	import videoCard from '$lib/assets/videos/video-bienestar.mp4'
 </script>
 
@@ -12,7 +11,6 @@
 	question2="· ¿Seguiré aprendiendo cosas nuevas?"
 	question3="· ¿Mantendré siempre la ilusión en el trabajo?"
 	{imageCard}
-	{imageBanner}
 >
 	<svelte:fragment slot="answer1">
 		<p>
