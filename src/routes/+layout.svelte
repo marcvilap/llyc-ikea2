@@ -175,9 +175,19 @@
 		<div class="flex justify-between gap-8 py-4">
 			<div>© Inter IKEA Systems B.V 1999-2024</div>
 			<ul class="flex flex-wrap gap-x-4">
-				<li><a target="_blank" href="/">Política de privacidad</a></li>
-				<li><a target="_blank" href="/">Política de cookies</a></li>
-				<li><a target="_blank" href="/">Términos y condiciones</a></li>
+				<li>
+					<a target="_blank" href="https://www.ikea.com/es/es/customer-service/privacy-policy/"
+						>Política de privacidad</a
+					>
+				</li>
+				<li>
+					<a target="_blank" href="https://www.ikea.com/es/es/customer-service/cookie-policy/">Política de cookies</a>
+				</li>
+				<li>
+					<a target="_blank" href="https://www.ikea.com/es/es/customer-service/terms-conditions/"
+						>Términos y condiciones</a
+					>
+				</li>
 			</ul>
 		</div>
 	</div>
