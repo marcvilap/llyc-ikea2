@@ -15,7 +15,7 @@
 	<svelte:fragment slot="answer1">
 		<p>
 			No sabemos cuánto mides… pero en IKEA las oportunidades de crecer son infinitas. Podrás llegar tan alto como te
-			propongas. Conoce nuestra incubadora de líderes BLOOM, nuestra plataforma para que puedas desarrollar todo tu
+			propongas. Conoce nuestra incubadora de líderes Bloom!, nuestra plataforma para que puedas desarrollar todo tu
 			potencial.
 		</p>
 	</svelte:fragment>

@@ -19,7 +19,7 @@
 
 				<p class="mt-12">
 					<strong>Talento y liderazgo:</strong> IKEA es un espacio donde puedes nutrir tu liderazgo y avanzar en tu carrera.
-					Con programas como Bloom, que busca desarrollar líderes o Rosetta Stone, el programa que ponemos a vuestra disposición
+					Con programas como Bloom!, que busca desarrollar líderes o Rosetta Stone, el programa que ponemos a vuestra disposición
 					para que conquistes el mundo con tu habilidad para los idiomas, queremos que todas las personas del equipo se sientan
 					como una estrella en ascenso.
 				</p>
@@ -37,9 +37,9 @@
 				<p class="mt-8">
 					<strong>Sostenibilidad:</strong> IKEA es un lugar donde queremos involucrar a los colaboradores en el cuidado de
 					las personas y el medioambiente. ¿Te gustaría convertirte en un Activista? Con nuestro programa de embajadores
-					de sostenibilidad ya hemos llevado de viaje a más de 150 colaboradores por el mundo para que conozcan cómo IKEA
-					impacta de manera positiva en el planeta y la sociedad. Y eso no es todo, ¡tenemos la Fundación IKEA! Con diversas
-					iniciativas, te damos la oportunidad de unirte a la lucha contra la pobreza y el cambio climático.
+					de sostenibilidad llevaremos a 200 colaboradores de viaje por el mundo para que conozcan cómo IKEA impacta de manera
+					positiva en el planeta y la sociedad. Y eso no es todo, ¡tenemos la Fundación IKEA! Con diversas iniciativas, te
+					damos la oportunidad de unirte a la lucha contra la pobreza y el cambio climático.
 				</p>
 			</div>
 		</div>
